@@ -1,0 +1,28 @@
+#aula dia 13/12
+
+Hoje a aula tera 6 horas de duração, devido a alguma correção nos horarios.
+
+a primeira e segunda hora foi disponibilizada para terminarmos de fazer os exercícios dados como, tarefa 7.
+
+o coordenador Filipe veio e esclareceu algumas duvidas.
+
+terceira hora de aula o professor passou materia teorica.
+  -Circuitos logicos
+     -Circuito combinacional
+       -as saidas só dependem das entradas atuais.
+     -Circuito sequencial
+       -as saidas dependem das entradas atuais, mas tambem da sequencia de valores or que passaram as entradas.
+         -HÁ DOIS TIPOS DE CIRCUITOS SEQUENCIAIS:
+         -SIMPLES: usam portas logicas e ciclos com feedback para criar elementos de memoria.
+
+  -Dispositivo de Memoria
+    - deve possibilitar:
+      -uma operação de escrita.
+      -uma operação de leitura.
+
+  -FlipFlops
+    -um flip-flop é um dispositivo sequencial que amostra suas entradas e que altera as susas saidas apenas em instantes determinados por um sinal de relogio.
+
+  Exercícios de fixação latch.
+
+  
