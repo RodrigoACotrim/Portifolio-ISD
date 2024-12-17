@@ -5,8 +5,6 @@ Este repositório foi criado para documentar, organizar e compartilhar os conte�
 
 # Estrutura do portfólio
 Cada pasta no repositório representa uma aula da disciplina, com materiais específicos de cada sessão. Abaixo, descrevemos brevemente o conteúdo disponível em cada pasta:
-
-- Aula01/: Conteúdos introdutórios aos sistemas digitais e fundamentos da disciplina.
   
 Dentro de cada pasta, você encontrará:
 
